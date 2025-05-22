@@ -66,7 +66,7 @@ def schedule_run():
 
 def main():
     # 设置定时任务，每天早上6点运行
-    schedule.every().day.at("06:00").do(schedule_run)
+    schedule.every().day.at("19:20").do(schedule_run)
     
     while True:
         schedule.run_pending()
