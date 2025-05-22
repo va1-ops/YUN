@@ -1,0 +1,34 @@
+POST /run/crsReocordInfo HTTP/1.1
+token: 71c96abf-5401-480b-9168-fe3dfa8567a7
+isApp: app
+deviceId: 4211746682731606
+deviceName: Xiaomi(2312DRAABC)
+version: 3.5.0
+platform: android
+uuid: 4211746682731606
+utc: 1746688868
+sign: c7c4b6b8c5e340298e4c26b1375d800d
+Content-Type: application/json; charset=utf-8
+Content-Length: 281
+Host: 60.173.221.203:8091
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/3.12.0
+
+{"cipherKey":"BFlsNiqeCYADfxHgAqi3WhHoImFWC3HjU6BAQKwgg089sY3G3+tKT02GUu9
+
+
+
+
+
+32.2765856, 118.3123292
+
+32.2770369, 118.3123154
+
+32.2769856, 118.3114712
+
+32.2762996, 118.3114286
+
+32.2759634, 118.3115845
+
+32.2765751, 118.3123101
